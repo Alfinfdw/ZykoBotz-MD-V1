@@ -15,15 +15,15 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-${htjava} *💌 Nama* : Zyko-MD
-${htjava} *♂️ Gender* : Boys
-${htjava} *🕋 Agama* : Islam
+${htjava} *💌 Nama* : NiluhDev☔
+${htjava} *♂️ Gender* : Girls
+${htjava} *🕋 Agama* : -
 ${htjava} *⏰ Tanggal lahir* : Private 🥶
-${htjava} *🎨 Umur* : 18 🥶
-${htjava} *🧮 Kelas* : private
-${htjava} *🧩 Hobby* : MODIFIKASI WHATSAPP "MODDER WHATSAPP"
+${htjava} *🎨 Umur* : Kepo🥶
+${htjava} *🧮 Kelas* : Lulus
+${htjava} *🧩 Hobby* : Mencintai mu
 ${htjava} *💬 Sifat* : ASIK DAH KALAU DAH KENAL
-${htjava} *🗺️ Tinggal* : Sukabumi
+${htjava} *🗺️ Tinggal* : Banyuwangi Jawa timur 
 ${htjava} *📷 ɪɴsᴛᴀɢʀᴀᴍ* : ${sig}
 ${htjava} *🐈 ɢɪᴛʜᴜʙ:* ${sgh}
 ${htjava} *💌 TY:* ${syt}
@@ -35,7 +35,7 @@ const sections = [
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
 	{title: "📱 • Nomor Owner", rowId: ".owner nomor"},
-	{title: "📱 • Creator", rowId: ".zyko"},
+	{title: "📱 • Creator", rowId: ". NiluhDevBotz☔"},
 	{title: "🎨 • Biodata", rowId: ".owner bio"},
 	{title: "🌎 • Script", rowId: ".sc"},
 	]
